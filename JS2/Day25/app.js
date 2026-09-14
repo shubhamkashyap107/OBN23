@@ -43,6 +43,11 @@ function special(matrix, n){
   // return (dc + ec == n ** 2)
 }
 
+function printBoundaryClockwise(mat)
+{
+
+}
+
 
 function printBoundaryAntiCLockwise(mat)
 {
