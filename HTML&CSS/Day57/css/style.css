@@ -1,0 +1,73 @@
+/* div{
+    background-color: red;
+} */
+
+/* 
+
+#one{
+    background-color: yellow;
+}
+
+
+.oneC{
+    text-decoration: underline;
+} */
+
+
+/* #box .inner{
+    background-color: red;
+} */
+/* 
+div > p {
+    background-color: yellow;
+} */
+
+
+
+/* article + footer{ */
+/* article ~ footer{
+    border: 10px solid gold;
+} */
+
+
+
+#btn:hover{
+    background-color: pink;
+    height: 40px;
+    width: 80px;
+}
+
+
+p:first-child{
+    background-color: red;
+}
+
+p:last-child{
+    background-color: green;
+}
+
+
+p:nth-child(2){
+    background-color: yellow;
+}
+
+#one::first-line{
+    text-decoration: underline;
+}
+
+
+#one::first-letter{
+    font-size: 40px;
+}
+
+#one::selection{
+    background-color: lightpink;
+}
+
+header[class="1"]{
+    background-color: rebeccapurple;
+}
+
+a[target="_blank"]{
+    color: black;
+}
