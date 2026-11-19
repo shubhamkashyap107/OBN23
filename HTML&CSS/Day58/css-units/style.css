@@ -1,0 +1,43 @@
+body{
+    background-color: lightblue;
+}
+
+#outer{
+    height: 500px;
+    width: 500px;
+    background-color: red;
+}
+
+
+#mid{
+    background-color: yellow;
+    height: 50%;
+    width: 50%;
+}
+
+
+#inner{
+    background-color: green;
+    height: 50%;
+    width: 50%;
+}
+
+#one{
+    font-size: 40px;
+}
+
+
+#two{
+    font-size: 2em;
+}
+
+#three{
+    font-size: 2em;
+}
+
+
+#test{
+    font-size: 5rem;
+}
+
+

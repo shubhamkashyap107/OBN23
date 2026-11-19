@@ -1,0 +1,23 @@
+.box{
+    border: 1px solid black;
+    /* flex-grow: 1; */
+    width: 200px;
+
+}
+
+
+main{
+    height: 50vh;
+    width: 100vw;
+    border: 5px solid black;
+    display: flex;
+    /* flex-direction: column; */
+    /* gap: 20px; */
+    /* align-items: center; */
+    /* justify-content : space-around; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    flex-wrap: wrap;
+    /* gap: 5px; */
+    /* column-gap:  10px; */
+}
